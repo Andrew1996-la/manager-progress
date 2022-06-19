@@ -14,7 +14,7 @@ import { defineComponent } from "vue";
 export default defineComponent({});
 </script>
 
-<style>
+<style scoped>
 .header {
   display: flex;
   justify-content: space-between;
